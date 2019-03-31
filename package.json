@@ -1,0 +1,8 @@
+{
+  "name": "Shiro",
+  "version": "1.0.0",
+  "description": "Simple discord bot",
+  "main": "shiro.js",
+  "author": "Josh M"
+  "dependencies": {}
+}
